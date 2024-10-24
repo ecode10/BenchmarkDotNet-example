@@ -1,0 +1,3 @@
+BenchmarkDotNet requires dotnet cli to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'Benchy.MaskNaive: DefaultJob' will not be executed
+BenchmarkDotNet requires dotnet cli to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'Benchy.MaskStringBuilder: DefaultJob' will not be executed
+BenchmarkDotNet requires dotnet cli to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'Benchy.Mask: DefaultJob' will not be executed

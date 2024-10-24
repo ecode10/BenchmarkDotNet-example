@@ -1,0 +1,10 @@
+// Validating benchmarks:
+// Benchmark Benchy.MaskNaive: DefaultJob
+//    * BenchmarkDotNet requires dotnet SDK to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'Benchy.MaskNaive: DefaultJob' will not be executed
+
+// Benchmark Benchy.MaskStringBuilder: DefaultJob
+//    * BenchmarkDotNet requires dotnet SDK to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'Benchy.MaskStringBuilder: DefaultJob' will not be executed
+
+// Benchmark Benchy.Mask: DefaultJob
+//    * BenchmarkDotNet requires dotnet SDK to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'Benchy.Mask: DefaultJob' will not be executed
+
